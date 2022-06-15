@@ -1,0 +1,24 @@
+/*banner*/
+
+.navbar {
+    background-color: #13142c !important;
+}
+
+
+/*fondo*/
+
+.py-4 {
+    background-color: #AABBC7;
+    padding-top: 8.5rem !important;
+    padding-bottom: 20rem !important;
+}
+
+.nav-link {
+    color: rgb(255, 255, 255) !important;
+}
+
+.img-fondo {
+    background-color: #040c2c !important;
+    display: block;
+    margin: 0px auto;
+}
